@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="extension_model=partition,largeTable=true" label="Base Configuration Item" max_length="40" name="cmdb" sizeclass="2784" type="collection">
+        <element label="customstr" max_length="40" name="x_snc_scopeddict1_customstr" type="string"/>
+    </element>
+</database>

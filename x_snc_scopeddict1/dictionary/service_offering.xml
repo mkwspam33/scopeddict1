@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci_service" label="Service Offering" max_length="40" name="service_offering" sizeclass="0" type="collection"/>
+</database>

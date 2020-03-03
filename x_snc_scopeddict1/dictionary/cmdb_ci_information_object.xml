@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="cmdb_ci" label="Information Object" max_length="40" name="cmdb_ci_information_object" sizeclass="0" type="collection"/>
+</database>

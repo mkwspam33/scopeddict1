@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_snc_scopeddict1_customstr" label="customstr" language="en" table="cmdb_ci_storage_port">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_snc_scopeddict1_customstr</element>
+            <help/>
+            <hint/>
+            <label>customstr</label>
+            <language>en</language>
+            <name>cmdb_ci_storage_port</name>
+            <plural>customstrs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>matt.wilkofsky@snc</sys_created_by>
+            <sys_created_on>2020-03-03 16:23:40</sys_created_on>
+            <sys_id>b585528edb5b0010d4911a4813961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>customstr</sys_name>
+            <sys_package display_value="scopeddict1" source="x_snc_scopeddict1">c0051a0edb5b0010d4911a4813961992</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="scopeddict1">c0051a0edb5b0010d4911a4813961992</sys_scope>
+            <sys_update_name>sys_documentation_cmdb_ci_storage_port_x_snc_scopeddict1_customstr_en</sys_update_name>
+            <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
+            <sys_updated_on>2020-03-03 16:23:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
